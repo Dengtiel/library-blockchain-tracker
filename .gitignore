@@ -1,0 +1,4 @@
+build/
+library_tracker
+data/chain.dat
+keys/*.pem
